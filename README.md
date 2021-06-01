@@ -15,3 +15,5 @@ Encrypting is very simple. Program converts main password and the second passwor
 i.e. when the main password is "test" and the second password is "house", encrypted password is "46592-49728-52416-51520-45248".
 
 Note that after forgetting your main password you can't bring rest of your passwords back!
+
+Code to this program is written in really easiest way and I'm sure someone can do it better, but I just wanted to try do it myself :).
