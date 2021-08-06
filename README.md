@@ -2,9 +2,9 @@
 Encrypts and decrypts your passwords!
 
 ## How to download
-just click [this](https://github.com/CziterGaming/PasswordEncrypting/releases/) link.
+just click [this](https://github.com/CziterGaming/PasswordEncrypting/releases/) link and download rar file.
 
-How to use:
+## How to  use
 1. Insert your main password into text box and click "confirm" button.
 2. To add new password, write your description and password and click "encrypt" button.
 3. To see your passwords, make sure your main password is valid and just click "decrypt" button.
